@@ -1,0 +1,27 @@
+{
+  "name": "indie-developer-toolkit",
+  "version": "0.0.1",
+  "description": "The Indie Developer Toolkit is your one-stop-shop for everything you need to build a successful career as a solo indie developer.",
+  "author": "Raphael S.",
+  "license": "MIT",
+  "homepage": "https://github.com/raf-underscore/indie-developer-toolkit#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raf-underscore/indie-developer-toolkit"
+  },
+  "bugs": {
+    "url": "https://github.com/raf-underscore/indie-developer-toolkit/issues"
+  },
+  "engines": {
+    "npm": ">=5.5.0",
+    "node": ">=9.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  },
+  "devDependencies": {
+    "git-cz": "^4.9.0"
+  }
+}
